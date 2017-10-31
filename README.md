@@ -7,6 +7,8 @@ RHEA is the future of human settlement in space.
 
 When it comes to living in space, there are many challenges both physically and mentally. RHEA is a project that aims to develop a working option that considers all aspects of space travel.
 
+No matter how we look at it, gravity is an essential of our lives. Without it, our bodies degrade and deteriorate. Rather than accelerating linearly at a constant speed to simulate gravity, a space station can spin about one axis. This spinning motion generates an acceleration that can behave similar to Earth's gravity if controlled correctly. RHEA takes advantage of this physics phenomenon to assist in nurturing humans.
+
 WIP
 
 WIP

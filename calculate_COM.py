@@ -15,11 +15,6 @@ class calculate_COM:
 	"""Calculate Center of Mass Object"""
 
 	def __init__(self):
-		"""Default constructor for calculate_COM objects
-		
-		no arguments
-		
-		"""
 		self.value = 0
 
 	def get_value(self):

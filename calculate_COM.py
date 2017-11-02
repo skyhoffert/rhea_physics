@@ -11,12 +11,23 @@
 # WIP
 # Started Nov 1, 2017
 
-class calculate_COM
+class calculate_COM:
 	"""Calculate Center of Mass Object"""
+
 	def __init__(self):
+		"""Default constructor for calculate_COM objects
+		
+		no arguments
+		
+		"""
 		self.value = 0
 
 	def get_value(self):
+		"""Return member variable value by function
+		
+		no arguments
+		
+		"""
 		return self.value
 
 # TODO -- most things ;)

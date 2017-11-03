@@ -19,7 +19,7 @@ class Test_Instantiation(unittest.TestCase):
 
 	def test(self):
 		com_calc = calculate_COM()
-		self.assertEqual(com_calc.get_value(), 0)
+		self.assertEqual(com_calc, not None)
 
 	def test_doc(self):
 		doctest.testmod()

@@ -15,14 +15,17 @@ class calculate_COM:
 	"""Calculate Center of Mass Object"""
 
 	def __init__(self):
-		self.value = 0
+		self.objects = []
 
-	def get_value(self):
-		"""Return member variable value by function
-		
-		no arguments
-		
+	def get_objects(self):
+		"""Return list of objects"""
+		return self.objects
+
+	def add_object(self, distance, mass):
+		"""Add an object by distance and mass to object list
+		arg1: distance (in meters)
+		arg2: mass     (in kilograms)
 		"""
-		return self.value
+		self.objects.append([distance, mass])
 
 # TODO -- most things ;)
